@@ -2,7 +2,7 @@
 
 This is a challenge developed by Guilherme Corrêa on the course Full Cycle. 
 
-## Funcional Requirements
+## Funcional requirements
 
 - [x] Should print Full Cycle Rocks on terminal when running the container
 
